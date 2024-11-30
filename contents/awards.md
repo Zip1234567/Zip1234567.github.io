@@ -1,9 +1,7 @@
-- First-prize Academic Scholarship, 2023.
+- 华中杯数模竞赛二等奖, 2024.
 
-- Freshman Academic Scholarship, 2022.
+- 电工杯全国大学生数模竞赛三等奖, 2024.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- 全国大学生数学竞赛三等奖, 2023.
 
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- 优秀学生丙等奖学金, 2023.
